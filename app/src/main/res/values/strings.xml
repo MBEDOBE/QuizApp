@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Literature Quiz</string>
+
+    <string name="qtitle1">Question 1</string>
+    <string name="qtitle3">Question 3</string>
+    <string name="qtitle4">Question 4</string>
+    <string name="qtitle5">Question 5</string>
+    <string name="qtitle6">Question 6</string>
+    <string name="qtitle7">Question 7</string>
+
+    <string name="qtitle2">Question 2</string>
+
+
+    <string name="question1">De qui Candide est-il le fils?</string>
+    <string name="q1answer1">Le baron</string>
+    <string name="q1answer2">Pangloss</string>
+    <string name="q1answer3">La soeur du baron</string>
+
+
+    <string name="question3">Quel est le thème récurrent de \"Candide\"?</string>
+    <string name="q3answer1">La guerre</string>
+    <string name="q3answer2">L\'omniprésence du mal</string>
+    <string name="q3answer3">La religion</string>
+
+    <string name="question4">\"Candide\" a été publié en quelle annéé?</string>
+    <string name="q4answer1">1939</string>
+    <string name="q4answer2">1979</string>
+    <string name="q4answer3">1959</string>
+
+    <string name="question5">L\'auteur dans \"Une Vie de Boy\" satirise la société à travers les actions de.....?</string>
+    <string name="q5answer1">L\'église Catholique</string>
+    <string name="q5answer2">Toundi Ondua</string>
+    <string name="q5answer3">Sophie</string>
+
+
+
+    <string name="question6">\"Au delà des Urnes\" est un roman politique écrit par.....?</string>
+    <string name="q6answer1">Ferdinand Oyono</string>
+    <string name="q6answer2">Sembene Ousmane</string>
+    <string name="q6answer3">Alfred B. Cudjoe</string>
+
+    <string name="question7">\"Xala\" est un mot de la langue....</string>
+    <string name="LangueHint">Langue native de Senegal</string>
+
+
+    <string name="question9">\"Allah n\'est pas oblige\" est un roman.....?</string>
+    <string name="q9answer1">Historique</string>
+    <string name="q9answer2">Picaresque</string>
+    <string name="q9answer3">d\'aventures</string>
+
+
+    <string name="submit">submit</string>
+
+
+</resources>
